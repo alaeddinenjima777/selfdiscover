@@ -1,0 +1,77 @@
+Technical Skills: Definitions and Examples
+By Indeed Editorial Team
+6 May 2021
+
+
+Technical skills are the specific hard skills required to perform certain tasks. If you have technical skills to do the job you want, you can increase your chances of getting that job. Technical skills can vary widely across jobs and industries. In this article, we discuss what technical skills are and why they are important, then explore some examples of different technical skills you may see listed on job descriptions.
+
+What are technical skills?
+Technical skills refer to the expertise and knowledge needed to accomplish complex processes, tasks or actions relating to physical and computational technology. Individuals who possess technical skills are usually referred to as "technicians," with the expression referring to engineering technicians, computer technicians, market technicians, electronics technicians, audio technicians and a variety of other designations. Technical skills are often practical ones, usually in the fields of science, mathematics, information technology and engineering.
+
+Why are technical skills important?
+Technical skills are important because the majority of jobs rely on different processes, software and tools. If you possess sought-after technical skills and knowledge common in your field or industry, you will be a more valuable candidate for employers. For instance, while a welder may have excellent customer service skills and a positive attitude, their handling of a welding torch will be crucial to their practical and technical success.
+
+Upload your CV to Indeed
+Let employers find you by creating an Indeed CV
+What technical skills are employers looking for?
+Job advertisements often list both "required" and "desired" technical skills. Required technical skills are usually considered a prerequisite to performing the job's duties and responsibilities successfully upon hire. For instance, if you are applying for a junior chef position, the employer may require you to possess basic food preparation skills, such as poaching, baking, grilling and sauteing. Although some employers provide on-the-job training, others may need to hire an experienced chef who will only need to be trained on new recipes.
+
+When employers list desired technical skills in job advertisements, they are indicating that while there are a few competencies they would like to see on a CV, they may be open to hiring candidates without that experience. Employers are typically willing to help new employees gain desired technical skills on the job, if necessary. This may be common for roles with a high turnover rate, or those that have specialised programs or tools which are difficult to gain experience with before employment.
+
+Examples of technical skills
+Relevant technical skills make you a valuable candidate to potential employers in your industry and should be highlighted in your CV. However, depending on your niche, the technical skills employers are seeking will vary. Here are a few of the top technical skills that employers usually look for:
+
+Programming
+Programming skills are not only reserved for web or software developers. Other IT professionals, such as project managers or customer service teams, need to have a basic knowledge of programming to coordinate projects and support customers. Any graduate entering the IT sector will be more valuable to a company if they know how to code, as they can take on programming-related duties from the outset. Some of the highly sought-after coding language skills include Ruby, C/C++, C#, Java, JavaScript, Perl, PHP and Python.
+
+Project management skills
+Being able to effectively coordinate budgets, people and resources is one of the best technical skills you can have. Individuals who have projects management skills are in-demand in many industries, including digital design and construction. Some of the project management technical skills companies usually look for include task management, project management software knowledge, project planning, risk management and budget planning.
+
+Information security
+Security management is a technical skill where you develop the knowledge to identify issues in systems and discover any vulnerabilities. Developing security management skills and highlighting it on your CV as a technical skill can give you a competitive advantage over other candidates, especially if you are applying for a data management or IT role.
+
+Technical support
+Technical support skills are necessary to maintain computer systems and troubleshoot issues as they arise. These technical skills are also essential when you are performing regular updates, setting up and configuring new hardware and helping coworkers set up accounts, reset passwords and deal with system-related queries. Technical support skills are also necessary when maintaining records of software licenses and restocking equipment.
+
+Industry-specific skills
+Technical skills typically vary by industry, so it's important to do some research on the industry you want to work in. You can search for job advertisements from employers in that industry and create a list of the common technical skills they are looking for. Highlight the skills you already have or skills you can easily learn and consider prioritising them on your CV.
+
+Here are some examples of role-specific technical skills you may find in job advertisements:
+
+Healthcare: Medical billing, medical coding, electronic medical record (EMR) software, sonography and certifications
+Marketing: Digital media, search engine optimisation (SEO), social media platforms, copywriting, content management systems (CMS) and automated marketing software
+Software development: Documentation, modelling, algorithms, security, languages, applications, design, testing, debugging and coding
+Graphic design: User modelling, responsive design, Adobe Suite software, branding and print design and typography
+Data analysis: Compiling statistics, big data, data mining, statistical analysis, quantitative research and quantitative reporting
+Accounting: Auditing, cost and trend analysis, ERP systems, Microsoft Dynamics, Intrax Procedure Net and Sage 50 accounting
+How to improve your technical skills
+If you want to advance to a senior position or change industries, you may need to consider improving or gaining new technical skills. Here are a few steps you can take to improve your technical skills:
+
+Attend classes, seminars or workshops: There are several seminars, training workshops and sessions that provide you with instruction about a specific technical skill or technique.
+Subscribe to tech websites or magazines: Subscribing to tech websites or magazines offer you an affordable way of keeping yourself up-to-date on industry developments and trends. They also provide lots of information that helps you improve your technical skills and knowledge about complex software applications.
+Read technical books and watch video tutorials: There are lots of books about software, hardware, programming languages and other technical topics. You can purchase these technical books at your local bookstore. You can also search for video tutorials online.
+Join an industry organisation: Industry organisations often offer technical training events for its members. These events can give you access to mentors and experienced practitioners in your field.
+Volunteer on technical projects: You can look for opportunities in your city to volunteer on technical projects. Volunteering on technical projects allow you to meet with clients, take part in weekly, monthly or quarterly meetings and become a valued member of the project.
+How to highlight your technical skills on your CV
+Here are a few steps you can take to highlight technical skills on your CV:
+
+1. Create a separate section for your technical skills
+Create a dedicated technical skills section at the top of your CV, just above your professional experience and below your introduction. To make it easy to read, list your technical skills using bullet points. Here's a good example of what this could look like:
+
+Technical skills:
+
+*Report Development: SharePoint 2012 Website, SQL Server Data Tools, Report Datasets & Parameters, Highly Graphics and Visual Dashboard & Table Report Styles*
+Database development: Table Scalar Functions, SQL Stored Procedures, Database, MS Access, SSAS Cubes, SQL Jobs, SQL SSIS packages, Ad-hoc T-SQL Queries
+2. Prove your technical skills in your professional experience section
+You can also highlight your technical skills throughout your work experience section. By adding bullet points that target your professional achievements, you can highlight how you used your technical skills effectively to benefit your current or previous employer. For example, if you're an accountant, you could mention how you used accounting and ERP programs to achieve the accomplishments mentioned in your experience section. This supports how and when you utilised specific technical skills.
+
+Here's an example of a professional experience section that highlights technical skills:
+
+Professional Experience
+
+General Corp., London, England
+
+SQL Developer, August 2020-Present
+
+Drive performance, reliability and stability by optimising in-app SQL statements and create user-focused databases
+Develop an ETL Database Model to perform new procedures and design various database warehouse dimensions to accept ETL outputs
